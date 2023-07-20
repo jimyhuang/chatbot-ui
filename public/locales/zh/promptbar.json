@@ -1,13 +1,13 @@
 {
-  "New prompt": "新建提示",
-  "New folder": "新建文件夹",
-  "No prompts.": "无提示词",
-  "Search prompts...": "搜索提示...",
-  "Name": "名称",
-  "A name for your prompt.": "提示词名称",
+  "New prompt": "請輸入提示詞",
+  "New folder": "建立資料夾",
+  "No prompts.": "沒有提示詞",
+  "Search prompts...": "搜尋提示...",
+  "Name": "名稱",
+  "A name for your prompt.": "提示詞名稱",
   "Description": "描述",
-  "A description for your prompt.": "提示词描述",
-  "Prompt": "提示词",
-  "Prompt content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "提示内容。使用 {{}} 表示一个变量。例如：{{name}} 是一个 {{adjective}} {{noun}}",
-  "Save": "保存"
+  "A description for your prompt.": "提示詞描述",
+  "Prompt": "提示詞",
+  "Prompt content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}": "提示内容。使用 {{}} 表示一個變數。例如：{{name}} 是一個 {{adjective}} {{noun}}",
+  "Save": "儲存"
 }
